@@ -1,0 +1,13 @@
+.header-color{
+    background: brown;
+    color: white;
+}
+
+.nav{
+    display: flex;
+}
+
+.nav-list{
+    list-style: none;
+    margin-right: 10px;
+}
